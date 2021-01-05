@@ -1,6 +1,6 @@
 # Improving Covid-19 Prediction Through Variational Bayes For Learned Class Weighting
 Current Covid-19 datasets are rife with class imbalance. This study identifies the consequences of such imbalance on
-Covid-19 diagnosis tasks, as well as presenting both existing and novel solutions to these problems. The project demonstrates the limitations and advantages of each approach, as well as suggesting further work (please read the [paper](https://github.com/Jack742/Improving-Covid-19-Prediction-Through-Variational-Bayes-For-Learned-Class-Weighting/blob/main/Results%20and%20Paper/Improving%20Covid-19%20Prediction%20Through%20Variational%20Bayes%20for%20Learned%20Class%20Weighting.pdf) for details).
+Covid-19 diagnosis tasks with a CNN (resnet architecture), as well as presenting both existing and novel solutions to these problems. The project demonstrates the limitations and advantages of each approach, as well as suggesting further work (please read the [paper](https://github.com/Jack742/Improving-Covid-19-Prediction-Through-Variational-Bayes-For-Learned-Class-Weighting/blob/main/Results%20and%20Paper/Improving%20Covid-19%20Prediction%20Through%20Variational%20Bayes%20for%20Learned%20Class%20Weighting.pdf) for details).
 
 
 ## Dataset Distribution
