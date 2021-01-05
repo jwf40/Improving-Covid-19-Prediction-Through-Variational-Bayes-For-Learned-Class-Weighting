@@ -10,4 +10,4 @@ improves classification performance when combined with other strategies.
 
 ##Dataset Distribution
 
-![]('Results and Papers/Dataset Distribution.png')
+![](https://github.com/Jack742/Improving-Covid-19-Prediction-Through-Variational-Bayes-For-Learned-Class-Weighting/blob/main/Results%20and%20Paper/Dataset%20Distribution.png)
