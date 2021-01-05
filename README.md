@@ -11,7 +11,7 @@ The [CovidX dataset](https://github.com/lindawangg/COVID-Net/blob/master/docs/CO
 As a result, network performance on the minor class of Covid-19 samples was poor.
 
 ## Existing Methods
-The first strategies leveraged were data augmentation (adding perturbations to samples to increase variance within the dataset), upsampling (sampling the minority-class at a greater proportion to its size) and loss-function weighting (applying greater weights to the loss function for the minority class). By combining all three strategies, the performance of network on the minority class improved. However, the performance on the majority classes was worstened (in other words, the network simply predicted Covid-19 more frequently, instead of actually learning the features of Covid-19).
+The first strategies leveraged were data augmentation (adding perturbations to samples to increase variance within the dataset), upsampling (sampling the minority-class at a greater proportion to its size) and loss-function weighting (applying greater weights to the loss function for the minority class). By combining all three strategies, the performance of network on the minority class improved. However, the performance on the majority classes was worse (in other words, the network simply predicted Covid-19 more frequently, instead of actually learning the features of Covid-19).
 
 ![](https://github.com/Jack742/Improving-Covid-19-Prediction-Through-Variational-Bayes-For-Learned-Class-Weighting/blob/main/Results%20and%20Paper/combining%20methods%20comparison%20bar.png)
 
