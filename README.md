@@ -6,3 +6,8 @@ a novel adaptation of the Variational Bayes for Active Learning thesis is used t
 difficulty scores for upsampling and loss function weighting. This method improves minority class prediction while improving overall performance, alleviating issues of the existing methods. In addition, the efficacy of supervised and unsupervised
 pretraining as a class imbalance strategy is explored. The findings show that pretraining may act as an orthogonal strategy that
 improves classification performance when combined with other strategies.
+
+
+##Dataset Distribution
+
+![]('Results and Papers/Dataset Distribution.png')
